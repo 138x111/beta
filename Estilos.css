@@ -108,7 +108,7 @@ p{
 
 .box-container2{
     display: flex;
-    justify-content: ;
+    justify-content: right;
     padding-top: 50px ;
     flex-wrap: wrap;
 }
@@ -319,3 +319,10 @@ p{
     padding: -50vh;
    
 }
+
+.img100{
+    margin-left: 2000px;
+    margin-top: 2000px;
+    margin-bottom: 55px;
+}
+
